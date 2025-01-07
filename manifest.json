@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "TravianLegends+",
+    "version": "0.1",
+    "description": "Extra Features for TravianLegends",
+    "author": "MageSneaky",
+    "homepage_url": "https://github.com/MageSneaky/TravianLegendsPlus",
+    "browser_specific_settings": {
+		"gecko": {
+			"id": "travianlegendsplus@sneaky.pink"
+		}
+	},
+    "icons": {
+        "48": "icons/48.png",
+        "96": "icons/96.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.travian.com/*"
+            ],
+            "js": [
+                "travianlegendsplus.js"
+            ]
+        }
+    ]
+}
