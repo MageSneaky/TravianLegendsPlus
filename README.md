@@ -7,18 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/travianlegendsplus/">
-    <img alt="Firefox Add-on" src="https://img.shields.io/badge/Firefox-Available?style=for-the-badge&logo=firefoxbrowser&logoColor=black&color=pink">
-  </a>
-  <a href="https://github.com/MageSneaky/TravianLegendsPlus">
-    <img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/MageSneaky/TravianLegendsPlus?label=Repo%20Size&logo=github&logoColor=black&labelColor=pink&style=for-the-badge&color=pink">
-  </a>
-  <a href="https://sneaky.pink">
-    <img alt="Website" src="https://img.shields.io/badge/sneaky.pink-Visit?style=for-the-badge&color=pink">
-  </a>
-  <a href="https://chrome.google.com/webstore/detail/travianlegendsplus">
-    <img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-Coming%20Soon?style=for-the-badge&logo=googlechrome&logoColor=black&color=pink">
-  </a>
+  <a href="https://github.com/MageSneaky/TravianLegendsPlus"><img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/MageSneaky/TravianLegendsPlus?label=Repo%20Size&logo=github&logoColor=black&labelColor=pink&style=for-the-badge&color=pink"></a>
+  <a href="https://sneaky.pink"><img alt="Website" src="https://img.shields.io/badge/sneaky.pink-Visit?style=for-the-badge&color=pink"></a>
 </p>
 
 A browser extension that enhances the gameplay experience of Travian Legends. This extension provides additional features to streamline and enrich your gameplay.
@@ -44,16 +34,6 @@ And more to come! `:)
 
 ---
 
-## Installation
-
-### Firefox
-1. Visit [this link](https://addons.mozilla.org/en-US/firefox/addon/travianlegendsplus).
-2. Click **Add to Firefox** to install the extension.
-
-### Chrome (Coming Soon)
-
----
-
 ## Development
 
 To contribute or modify the extension, follow these steps:
@@ -71,9 +51,9 @@ To contribute or modify the extension, follow these steps:
    2. Click **Load Temporary Add-on** and select `manifest.json` file from the downloaded source code.
 
    **For Chrome:**
-   3. Go to `chrome://extensions`.
-   4. Enable Developer mode using the toggle in the top-right corner.
-   5. Click **Load unpacked** and select the folder containing the extension's files.
+   1. Go to `chrome://extensions`.
+   2. Enable Developer mode using the toggle in the top-right corner.
+   3. Click **Load unpacked** and select the folder containing the extension's files.
 
 3. Contribute any changes you make! `:)
 
