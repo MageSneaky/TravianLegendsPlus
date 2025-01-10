@@ -20,12 +20,12 @@ function SortAllianceMembers() {
     document.querySelectorAll('table.allianceMembers thead tr > td:not(.buttons)').forEach(element => {
         element.style.cursor = "pointer";
         element.addEventListener('click', (event) => {
-            if (sortedBy == event.target.classList[0]) {
+            if (sortedBy == element.classList[0]) {
                 allianceMembers.reverse();
                 SortMembers();
                 return
             }
-            switch (event.target.classList[0]) {
+            switch (element.classList[0]) {
                 case "counter":
                     allianceMembers.sort((a, b) => {
                         return a.nr - b.nr;
