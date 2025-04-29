@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sneaky.pink">
-    <img src="https://sneaky.pink/images/travianlegendsplusbanner.png" alt="Travian Legends+ Banner">
+    <img src="https://images.sneaky.pink/travianlegendsplusbanner.png" alt="Travian Legends+ Banner">
   </a>
 </p>
 
